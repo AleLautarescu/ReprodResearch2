@@ -227,6 +227,12 @@ A good time for suggestions on where to learn R and Python. You've probably alre
 
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
 
+# Some resources for learning R:
+* R for Data Science: [link] (https://r4ds.had.co.nz/)
+* YaRrr! The Pirate's Guide to R: [link] (https://bookdown.org/ndphillips/YaRrr/)
+* Danielle Navarro's book "Learning Statistics with R" [link] (https://learningstatisticswithr.com/)
+* Andy Field's book "Discovering Statistics using R"
+
 
 If you are using a random number generator, take note of the seed number.
 
