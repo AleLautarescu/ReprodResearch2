@@ -1,8 +1,8 @@
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
 
-# Some resources for learning R:
-* R for Data Science: [link] (https://r4ds.had.co.nz/)
-* YaRrr! The Pirate's Guide to R: [link] (https://bookdown.org/ndphillips/YaRrr/)
-* Danielle Navarro's book "Learning Statistics with R" [link] (https://learningstatisticswithr.com/)
+##### Some resources for learning R:
+* R for Data Science: https://r4ds.had.co.nz/
+* YaRrr! The Pirate's Guide to R: https://bookdown.org/ndphillips/YaRrr/
+* Danielle Navarro's book "Learning Statistics with R": https://learningstatisticswithr.com/
 * Andy Field's book "Discovering Statistics using R"
 
